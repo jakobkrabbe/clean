@@ -1,3 +1,4 @@
-# clean
+# cleaning servers from files
 
-this is the cleaning file!
+sudo du -h /var/log
+sudo ls -lh /var/log
